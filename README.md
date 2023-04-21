@@ -45,6 +45,10 @@ async function myFunction() {
 }
 ```
 
+## Demo
+
+You can view the demo by clicking [here](./test.html).
+
 ## License
 
 - MIT
