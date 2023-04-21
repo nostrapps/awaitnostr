@@ -47,7 +47,34 @@ async function myFunction() {
 
 ## Demo
 
-You can view the demo by clicking [here](./test.html).
+You can view the demo by clicking [here](https://nostrapps.github.io/awaitnostr/test.html).
+
+## Browser Performance Benchmarks
+
+Below are the performance benchmarks for different web browsers:
+
+### Firefox
+
+| Elapsed Time (s) | Interval Time (s) |
+|------------------|-------------------|
+| 2                | 2                 |
+| 5                | 3                 |
+
+### Chrome
+
+| Elapsed Time (s) | Interval Time (s) |
+|------------------|-------------------|
+| 2                | 2                 |
+
+### Brave
+
+| Elapsed Time (s) | Interval Time (s) |
+|------------------|-------------------|
+| 2                | 2                 |
+| 5                | 3                 |
+| 9.5              | 4.5               |
+| 16.25            | 6.75              |
+
 
 ## License
 
