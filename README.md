@@ -31,7 +31,7 @@
 To import the `awaitnostr` module from a CDN, add the following line to your HTML file:
 
 ```JavaScript
-import awaitnostr from 'https://cdn.skypack.dev/awaitnostr'
+import awaitNostr from 'https://cdn.skypack.dev/awaitnostr'
 ```
 
 ## Usage
