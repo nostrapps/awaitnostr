@@ -1,13 +1,12 @@
 {
   "name": "awaitnostr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "awaitnostr",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nostrapps/awaitnostr.git"
@@ -22,6 +21,5 @@
     "url": "https://github.com/nostrapps/awaitnostr/issues"
   },
   "homepage": "https://github.com/nostrapps/awaitnostr#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
