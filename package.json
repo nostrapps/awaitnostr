@@ -1,0 +1,27 @@
+{
+  "name": "awaitnostr",
+  "version": "0.0.1",
+  "description": "awaitnostr",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostrapps/awaitnostr.git"
+  },
+  "keywords": [
+    "nostr",
+    "await"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostrapps/awaitnostr/issues"
+  },
+  "homepage": "https://github.com/nostrapps/awaitnostr#readme",
+  "dependencies": {
+  }
+}
