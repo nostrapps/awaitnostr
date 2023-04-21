@@ -26,12 +26,20 @@
 
 `awaitnostr` is a utility function that allows you to wait for `window.nostr` to be defined before using `window.nostr` functions. This can be useful when using the Nostr browser extension API in your web app, as `window.nostr` may not be defined immediately upon page load.
 
+## Import from CDN
+
+To import the `awaitnostr` module from a CDN, add the following line to your HTML file:
+
+```JavaScript
+import awaitnostr from 'https://cdn.skypack.dev/awaitnostr'
+```
+
 ## Usage
 
 To use `awaitnostr`, simply import the `awaitNostr()` function from the package:
 
 ```JavaScript
-import awaitNostr from 'awaitnostr';
+import awaitNostr from 'awaitnostr'
 ```
 
 Then call the `awaitNostr()` function before using any `window.nostr` functions:
